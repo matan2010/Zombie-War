@@ -1,7 +1,7 @@
 # Zombie-War
 game project
 
-Game summary:
+## Game summary
 
 You have to kill all the zombies on the map,
 
